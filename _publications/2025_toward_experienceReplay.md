@@ -3,7 +3,7 @@ title: "Towards Experience Replay for Class-Incremental Learning in Fully-Binary
 collection: publications
 category: manuscripts
 permalink: /publication/2025_toward_experienceReplay
-excerpt: 'TL;DR: We present the first study enabling Class Incremental Learning (CIL) on Fully Binarized Neural Networks (FBNNs), pushing binary inference to its limits for ultra-low power edge devices. Our contributions include: (1) a CIL-compatible FBNN design and training pipeline, (2) loss balancing to manage forgetting, (3) semi-supervised pretraining for transferable features, and (4) a comparison of latent vs. native replay strategies. On CIFAR-100 and CORE50, our compact 3Mb FBNN matches or outperforms larger real-valued models—showcasing the potential of fully binary networks for continual learning.'
+excerpt: 'We present the first study enabling Class Incremental Learning (CIL) on Fully Binarized Neural Networks (FBNNs), pushing binary inference to its limits for ultra-low power edge devices. Our contributions include: (1) a CIL-compatible FBNN design and training pipeline, (2) loss balancing to manage forgetting, (3) semi-supervised pretraining for transferable features, and (4) a comparison of latent vs. native replay strategies.'
 date: 2024-10-01
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2503.07107'
