@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024_paper_iscas
 excerpt: 'TL;DR: We propose the first evaluation of incremental learning on a fully binary neural network (BNN), leveraging binary-only operations for efficient on-chip learning. Our custom-designed BNN reaches 53.3% accuracy on CIFAR-100 with just 4.1Mb of memory. We compare native and latent replay strategies under a class-incremental setup, revealing that latent replay outperforms native replay beyond a specific buffer size. Our binary model also maintains accuracy 10% higher than its full-precision equivalent over many retrainings, demonstrating strong robustness.'
-date: 2024-05
+date: 2024-05-21
 venue: 'IEEE International Symposium on Circuits and Systems (ISCAS)'
 slidesurl: 'http://academicpages.github.io/files/iscas_slides.pdf'
 paperurl: 'https://ieeexplore.ieee.org/xpl/conhome/10557746/proceeding'
