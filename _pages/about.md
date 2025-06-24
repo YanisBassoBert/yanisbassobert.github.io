@@ -15,11 +15,11 @@ redirect_from:
 
 🔬 I’m driven by projects that bridge scientific research with real-world applications, combining rigor, creativity, and environmental responsibility.
 
- 🏔️ Outside of work, I spend most of my time in the mountains ! Alpine climbing, long-distance trail running, and ski touring are my favorite ways to explore and connect with the natural world.
+🏔️ Outside of work, I spend most of my time in the mountains ! Alpine climbing, long-distance trail running, and ski touring are my favorite ways to explore and connect with the natural world.
 
- 🎨 I also enjoy creating: playing guitar, sketching, designing logos, and filming short videos. These artistic side projects are ways for me to slow down, observe, and share perspectives.
+🎨 I also enjoy creating: playing guitar, sketching, designing logos, and filming short videos. These artistic side projects are ways for me to slow down, observe, and share perspectives.
 
- 📚 This site is a place where I’ll share both my scientific work and personal projects : from research in AI to reflections from the summits, and sketches from my notebook.
+📚 This site is a place where I’ll share both my scientific work and personal projects : from research in AI to reflections from the summits, and sketches from my notebook.
 
 
 Education 
