@@ -1,9 +1,7 @@
 ---
 title: "From home to mamy's house : Chartreuse trail"
-collection: sport
-permalink: /sport/2025_06_Traversee_chartreuse
 date: 2025-06-20
-location: "France"
+permalink: /sport/2025_06_Traversee_chartreuse
 tags:
   - trail
 ---
