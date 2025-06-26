@@ -11,35 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in signal processing, CEA | UGA, 2021-2024
+* M.S. in Data Science, University Lyon 1, 2020
+* M.S. in Engineering, Ecole Centrale de Lyon, 2017-2020
+* Classe Preparation, Lycée Champollion, 2015-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 - 2024: Phd student in Embedded AI
+  * CEA LIST | CEA LETI | UGA
+  * Duties includes: Developpement of neural network for ultra-low power smart sensors
+  * Supervisor: Antoine Dupret, William Guicquero, Anca Molnos
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: Visiting Student Researcher in Computer Vision
+  * uOttawa | LabHC (CNRS)
+  * Duties included: Developpment of Auto-calibration camera pipeline with deep learning models
+  * Supervisor: Damien Musselet, Robert Lagarnière 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2020: Member of The Board of Advisors
+  * uOttawa | LabHC (CNRS)
+  * Duties included: Developpment of Auto-calibration camera pipeline with deep learning models
+  * Supervisor: Damien Musselet, Robert Lagarnière 
+
+* 2019: Data Scientist (intern)
+  * IHI corporation (Japan)
+  * Duties included: Creation of Default detetion algorithm in materials 
+  * Supervisor: Yuki Awano 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning & Deep Learning  
+  * Incremental learning, meta-learning, anomaly detection, Clustering 
+  * PyTorch, Scikit-learn, ONNX, Larq (quantization)  
+
+* Signal Processing & Ecoacoustics  
+  * Time-series analysis, audio preprocessing  
+  * Librosa, SciPy, FFT, Gaussian Mixture Models  
+
+* Software Engineering & Experimentation  
+  * Python (Numpy, Pandas, Matplotlib), Git, Docker, MLOps foundations  
+  * Reproducible pipelines, scientific visualization, data monitoring tools  
+
+* Transversal Skills  
+  * Project coordination and remote teamwork (PhD supervision meetings, cross-lab collaborations)  
+  * Visual design and science communication (Office, Illustrator)  
+  * Scientific writing and publishing (LaTeX, Overleaf, peer-reviewed publications)
+
+Courses 
+======
+
+* The Challenges of Corporate Social Responsibility,J-C Klein, 2024
+* Leadership & Teamwork, X.Delaigle, 2023
+* Deep Learn 2022, Spring School on Deep learning  
 
 Publications
 ======
@@ -52,7 +75,8 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -62,3 +86,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
