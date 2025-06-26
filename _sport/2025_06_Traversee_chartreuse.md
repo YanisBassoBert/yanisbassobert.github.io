@@ -3,8 +3,11 @@ title: "From home to mamy's house : Chartreuse trail"
 layout: single
 date: 2025-06-20
 permalink: /sport/2025_06_Traversee_chartreuse
+excerpt: "Trail running · 72 km · 3600 m+ · 11h30"
 tags:
   - trail
+  - france
+  - savoie
 ---
 
 To celebrate my PhD thesis and clear my mind after an intense but enriching defense, I decided to go trail running from my house to my grandparents’, crossing the Chartreuse massif! Here is the full story:
