@@ -1,5 +1,6 @@
 ---
 title: "From home to mamy's house : Chartreuse trail"
+layout: single
 date: 2025-06-20
 permalink: /sport/2025_06_Traversee_chartreuse
 tags:
