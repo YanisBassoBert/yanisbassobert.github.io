@@ -10,4 +10,4 @@ location: "Grenoble, France"
 
 Presentation of my emerging works in meta-learning for continual learning. 
 
-link for the [slides](http://yanisbassobert.github.io/files/220317_PE_metalearning.pdf)
+link for the [slides](https://yanisbassobert.github.io/files/220317_PE_metalearning.pdf)
