@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm an  engineerand freshly graduated PhD specialized in embedded AI and signal processing, with a focus on deep learning for constrained systems.
+🎓 I'm an engineer and freshly graduated PhD specialized in embedded AI and signal processing, with a focus on deep learning for constrained systems.
 
 🧠 My expertise lies in developing lightweight, incremental learning algorithms for edge devices, combining frugal inference and training strategies with disruptive hardware architectures.
 
