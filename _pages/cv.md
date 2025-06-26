@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can also download in Pdf [here](http://yanisbassobert.github.io/files/CV_Yanis_BASSOBERT.pdf)
+
 {% include base_path %}
 
 Education
