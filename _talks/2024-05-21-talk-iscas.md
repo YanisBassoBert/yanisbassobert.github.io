@@ -14,4 +14,4 @@ Presentation of my work on incremental learning with Binary Neural Networks (BNN
 2. Implementing training procedures to address convergence challenges specific to BNNs.
 3. Adapting the feature extractor update strategy based on the size of the memory buffer.
 
-link for the [slides]('http://yanisbassobert.github.io/files/iscas_slides.pdf')
+link for the [slides](http://yanisbassobert.github.io/files/iscas_slides.pdf)
