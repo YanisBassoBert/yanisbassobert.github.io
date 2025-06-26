@@ -13,15 +13,15 @@ redirect_from:
 
 🌍 My goal: develop AI systems that are both efficient and sustainable, connecting scientific innovation with field-based applications that support conservation, monitoring, and environmental awareness.
 
-🏔️ Outside of research, mountaineering is my second way of exploring the world — through trail running, ski touring, and climbing. I also stay curious and expressive through creative projects in music, visual design, and short films. 
+🏔️ Outside of research, mountaineering is my second way of exploring the world, through trail running, ski touring, and climbing. I also stay curious and expressive through creative projects in music, visual design, and short films. 
 
-📚 This site is where I share my scientific work and personal projects — from neural networks to bivouacs, from signal processing to sketches.
+📚 This site is where I share my scientific work and personal projects, from neural networks to bivouacs, from signal processing to sketches.
 
 News
 ======
 * 2025/06/12 – Successfully defended my PhD thesis, reviewed by Pr. Vincent Gripon and Pr. Céline Hudelot, and examined by Pr. Sylvie Le Hégarat-Mascle and Pr. Frédéric Pétrot.
 
-* 2025/03/13 – 🎉 Double submission! Preprint released for "Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Binarized Embeddings."
+* 2025/03/13 – 🎉 Double submission! Preprint released for ["Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Binarized Embeddings."](https://arxiv.org/abs/2503.10333)
 
-* 2025/03/10 – Preprint available for "Towards Experience Replay for Class-Incremental Learning in Fully-Binary Networks."
+* 2025/03/10 – Preprint available for ["Towards Experience Replay for Class-Incremental Learning in Fully-Binary Networks."](https://arxiv.org/abs/2503.07107)
 
