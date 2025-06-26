@@ -15,8 +15,6 @@ With a group of friends, we created a short movie club called *Le Short*, with t
 
 The logo represents two key stages of filmmaking: A typewriter symbolizes the pre-production phase, especially scriptwriting. A clapperboard illustrates the filming phase. A vibrant turquoise blue was chosen to give the project a strong and recognizable identity. The color also evokes calmness and introspection. 
 
-# Science 2024: an Olympic games initiative (2019)
-
 # 🧬 Science 2024: An Olympic Games Initiative (2019)
 
 During exam season, I was unexpectedly contacted by Franck Debouck, then director of École Centrale de Lyon:  
