@@ -7,24 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm an engineer and freshly graduated PhD specialized in embedded AI and signal processing, with a focus on deep learning for constrained systems.
+🎓 I’m an engineer and freshly graduated PhD in embedded AI and signal processing. My work focuses on designing lightweight, incremental learning algorithms for edge devices, enabling frugal, always-on intelligence.
 
-🧠 My expertise lies in developing lightweight, incremental learning algorithms for edge devices, combining frugal inference and training strategies with disruptive hardware architectures.
+🌿 I’m passionate about applying machine learning to real-world environmental challenges, from bioacoustics to glaciology and snow science, bridging low-power AI research environmental monitoring.
 
-🌿 I'm passionate about applying machine learning to ecological challenges — especially in environmental monitoring through bioacoustics, as well as in glaciology and snow science 🧊.
+🌍 My goal: develop AI systems that are both efficient and sustainable, connecting scientific innovation with field-based applications that support conservation, monitoring, and environmental awareness.
 
-🔬 I’m driven by projects that bridge scientific research with real-world applications, combining rigor, creativity, and environmental responsibility.
+🏔️ Outside of research, mountaineering is my second way of exploring the world — through trail running, ski touring, and climbing. I also stay curious and expressive through creative projects in music, visual design, and short films. 
 
-🏔️ Outside of work, I spend most of my time in the mountains ! Alpine climbing, long-distance trail running, and ski touring are my favorite ways to explore and connect with the natural world.
-
-🎨 I also enjoy creating: playing guitar, sketching, designing logos, and filming short videos. These artistic side projects are ways for me to slow down, observe, and share perspectives.
-
-📚 This site is a place where I’ll share both my scientific work and personal projects : from research in AI to reflections from the summits, and sketches from my notebook.
-
-
-Education 
-======
+📚 This site is where I share my scientific work and personal projects — from neural networks to bivouacs, from signal processing to sketches.
 
 News
 ======
+* 2025/06/12 – Successfully defended my PhD thesis, reviewed by Pr. Vincent Gripon and Pr. Céline Hudelot, and examined by Pr. Sylvie Le Hégarat-Mascle and Pr. Frédéric Pétrot.
+
+* 2025/03/13 – 🎉 Double submission! Preprint released for "Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Binarized Embeddings."
+
+* 2025/03/10 – Preprint available for "Towards Experience Replay for Class-Incremental Learning in Fully-Binary Networks."
 
