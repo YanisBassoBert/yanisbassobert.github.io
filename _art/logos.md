@@ -17,14 +17,9 @@ The logo represents two key stages of filmmaking: A typewriter symbolizes the pr
 
 # 🧬 Science 2024: An Olympic Games Initiative (2019)
 
-During exam season, I was unexpectedly contacted by Franck Debouck, then director of École Centrale de Lyon:  
-*"We need a logo for the Science 2024 consortium — there's a design contest, and we want ECL to participate."*  
+During exam season, I was unexpectedly contacted by Franck Debouck, then director of École Centrale de Lyon: *"We need a logo for the Science 2024 consortium. There's a design contest, and we want ECL to participate."* After a brief hesitation, I jumped at the opportunity.
 
-After a brief hesitation, I jumped at the opportunity.
-
-**Science 2024** was a consortium of 13 institutions, including top French Grandes Écoles, military sports bodies, and national sports centers. Its mission: to conduct cutting-edge research to support and enhance athlete performance ahead of the Paris 2024 Olympic Games.
-
-We proudly finished **second** in the contest, just behind the submission from *École Polytechnique*.
+Science 2024 was a consortium of 13 institutions, including top French Grandes Écoles, military sports bodies, and national sports centers. Its mission: to conduct cutting-edge research to support and enhance athlete performance ahead of the Paris 2024 Olympic Games. We proudly finished **second** in the contest, just behind the submission from *École Polytechnique*.
 
 *Here was my logo proposal:*
 
