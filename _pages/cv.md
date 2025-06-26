@@ -13,7 +13,7 @@ You can also download in Pdf [here](http://yanisbassobert.github.io/files/CV_Yan
 
 Education
 ======
-* Ph.D in signal processing, CEA | UGA, 2021-2024
+* Ph.D in signal processing, CEA/UGA, 2021-2024
 * M.S. in Data Science, University Lyon 1, 2020
 * M.S. in Engineering, Ecole Centrale de Lyon, 2017-2020
 * Classe Preparation, Lycée Champollion, 2015-2017
@@ -21,19 +21,18 @@ Education
 Work experience
 ======
 * 2021 - 2024: Phd student in Embedded AI
-  * CEA LIST | CEA LETI | UGA
+  * CEA LIST / CEA LETI / UGA
   * Duties includes: Developpement of neural network for ultra-low power smart sensors
   * Supervisor: Antoine Dupret, William Guicquero, Anca Molnos
 
 * 2020: Visiting Student Researcher in Computer Vision
-  * uOttawa | LabHC (CNRS)
+  * uOttawa / LabHC (CNRS)
   * Duties included: Developpment of Auto-calibration camera pipeline with deep learning models
   * Supervisor: Damien Musselet, Robert Lagarnière 
 
 * 2019 - 2020: Member of The Board of Advisors
-  * uOttawa | LabHC (CNRS)
-  * Duties included: Developpment of Auto-calibration camera pipeline with deep learning models
-  * Supervisor: Damien Musselet, Robert Lagarnière 
+  * Centrale Lyon 
+  * Duties included: Student representative on the Board of Directors 
 
 * 2019: Data Scientist (intern)
   * IHI corporation (Japan)
