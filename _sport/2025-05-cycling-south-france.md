@@ -28,7 +28,6 @@ The original plan was simple: ride from Grenoble to the Mediterranean, crossing 
      data-style="standard" 
      data-from-embed="false">
 </div>
-<script src="https://strava-embeds.com/embed.js"></script>
 {% endraw %}
 
 ---
@@ -134,3 +133,5 @@ The original plan was simple: ride from Grenoble to the Mediterranean, crossing 
      data-from-embed="false">
 </div>
 {% endraw %}
+
+<script src="https://strava-embeds.com/embed.js"></script>
