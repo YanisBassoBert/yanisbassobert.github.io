@@ -10,7 +10,7 @@ tags:
   - savoie
 ---
 
-Revanche on the Grande Casse ! Last year we couldn't climb the north face because of unexpected snow fall. This year we come back with Benjamin, ready and fit. Unfortunatly everything didn't go as planned in this 800m height frozen face...   
+Last year, unexpected snowfall forced us to turn back before climbing the north face. This year, we returned, fitter, more prepared, and determined, with Benjamin as my rope partner. But things didn’t quite go as planned on that 800-meter wall of ice and snow…
 
 {% raw %}
 <div class="strava-embed-placeholder" 
