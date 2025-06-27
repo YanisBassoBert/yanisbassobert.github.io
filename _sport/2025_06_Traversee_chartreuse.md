@@ -3,12 +3,7 @@ title: title: "Home to Mamy's House: A Solo Trail Across the Chartreuse"
 layout: single
 date: 2025-06-20
 permalink: /sport/2025_06_Traversee_chartreuse
-excerpt: >
-  Trail running · 72 km · 3600 m+ · 11h30  
-  <br/>
-  <a href="https://www.strava.com/activities/14864075842" target="_blank">
-    <img src="/images/chartreuse-trail-thumbnail.jpg" alt="Strava preview" width="300"/>
-  </a>
+excerpt: Trail running · 72 km · 3600 m+ · 11h30  
 tags:
   - trail
   - france
