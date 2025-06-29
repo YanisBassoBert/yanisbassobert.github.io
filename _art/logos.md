@@ -1,5 +1,5 @@
 ---
-title: "🎨 Logo design"
+title: "Logo design"
 layout: single
 excerpt: "A selection of logos I designed during engineering school. For student clubs and even the Olympics. <br/><img src='/images/logo-centrale-lyon.png' alt='Logo design sample'>"
 collection: art

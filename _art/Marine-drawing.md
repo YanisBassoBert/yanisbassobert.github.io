@@ -4,7 +4,7 @@ layout: single
 excerpt: >
   A selection of drawings inspired by marine fauna.  
   <br/>
-  <img src='/images/drawing-whales.png' alt='Whales drawing'>
+  <img src='/images/drawing-whales.jpg' alt='Whales drawing'>
 collection: art
 ---
 
