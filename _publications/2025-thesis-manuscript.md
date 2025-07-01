@@ -8,6 +8,7 @@ excerpt: "This thesis explores how Fully Binarized Neural Networks (FBNNs) can s
 date: 2025-04-01
 venue: Phd thesis
 paperurl: 'https://yanisbassobert.github.io/files/thesis.pdf'
+citation: 'Basso-Bert, Y. Replay strategies for incremental learning in fully-binary neural networks under memory constraints.'
 ---
 
 The rise of smart sensors has led to a growing need to deploy deep learning models close to the sensor, enabling always-on on-device inference, where models run permanently to support uninterrupted local processing. This approach reduces latency, bandwidth, and energy consumption — especially important in resource-constrained environments.
