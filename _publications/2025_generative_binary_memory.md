@@ -3,7 +3,8 @@ title: "Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Bi
 collection: publications
 category: manuscripts
 permalink: /publication/2025_generative_binary_memory
-excerpt: 'We propose Generative Binary Memory (GBM), the first pseudo-replay method tailored for Binary Neural Networks in Class-Incremental Learning. Using Bernoulli Mixture Models, GBM generates compact binary samples and improves accuracy with less memory compared to state of the art.'
+excerpt: "We propose Generative Binary Memory (GBM), the first pseudo-replay method tailored for Binary Neural Networks in Class-Incremental Learning. Using Bernoulli Mixture Models, GBM generates compact binary samples and improves accuracy with less memory compared to state of the art. <br/>
+  <img src='/images/schema-gbm.png' alt='GBM schema'>"
 date: 2024-11-01
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2503.10333'
