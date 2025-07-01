@@ -7,7 +7,7 @@ excerpt: "This thesis explores how Fully Binarized Neural Networks (FBNNs) can s
   <img src='/images/schema-manuscript-organisation.svg' alt='organisation schema' width='800'>"
 date: 2025-04-01
 venue: Phd thesis
-paperurl: 'https://yanisbassobert.github.io/files/iscas_slides.pdf'
+paperurl: 'https://yanisbassobert.github.io/files/thesis.pdf'
 ---
 
 The rise of smart sensors has led to a growing need to deploy deep learning models close to the sensor, enabling always-on on-device inference, where models run permanently to support uninterrupted local processing. This approach reduces latency, bandwidth, and energy consumption — especially important in resource-constrained environments.
