@@ -1,0 +1,3166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="567"
+   height="429"
+   overflow="hidden"
+   version="1.1"
+   id="svg364"
+   sodipodi:docname="schema-manuscript-organisation.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview364"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0208333"
+     inkscape:cx="283.59184"
+     inkscape:cy="192.97959"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg364" />
+  <defs
+     id="defs4">
+    <image
+       width="62"
+       height="57"
+       xlink:href="data:image/jpeg;base64,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"
+       preserveAspectRatio="none"
+       id="img0" />
+    <clipPath
+       id="clip1">
+      <rect
+         x="0"
+         y="0"
+         width="518026"
+         height="476250"
+         id="rect1" />
+    </clipPath>
+    <image
+       width="97"
+       height="91"
+       xlink:href="data:image/jpeg;base64,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"
+       preserveAspectRatio="none"
+       id="img2" />
+    <clipPath
+       id="clip3">
+      <rect
+         x="0"
+         y="0"
+         width="731018"
+         height="685800"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <rect
+         x="0"
+         y="1.16415e-10"
+         width="247650"
+         height="228600"
+         id="rect3" />
+    </clipPath>
+    <image
+       width="36"
+       height="37"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAlACQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9R9Yv4NL0y5urmZYIY4yWkY4A/wDr15Jp3ibX4rPw+DYMDpq8rJDdlpcxlPmxCR3zwT0pk+mWCeP9JEGhy6Qgktj5Fyq5Yl5ctgMwwcD/AL5qW5/4l/hHRdSZNRv7q9LCRzqFwqlsnagCE/Mx4HGM9a9WnTjBW3v/AJPzMHJsSfX9en07VLX7KVN9c/aPMEN5mL7vyj9z0+X9a6Twl4mu9X8bTHUYhYtJYrHBFiVFkKuxbAkRSSA3OB0rl/EcS6UmtpFPqImhu4I4g+oTYgRoVclsE5yQyg46n2pdetIpLW7gZbk2xm0+VIL2Z5XhMiSFhliSD2P0rRwhKNrWv/wP+ASm0z2mivKPD+laRJoWnPJ4IvrqRraMtOqx4kO0ZYZkBwevSiuB0Yp2v+X+ZrzMpPdW934+0t7fWn1xBLbA3D7Mqd03y/KoHv8AjVyDWbceDvDukq7pqRaG6gcx7oVcTkRiQ5yAzDbxnHWr2u+H/Eja5ba/c21hMll5TPa2MrmR1RnJ27lAJw54z2rnbKVVXRp4NQSdNODG1kfQZ3JDZ6kHnGcjHfmu5cs0mulv17Iy1R0mqeKbKa68Naz5UllfGd4rvYCxSBS0cgcrwUEpTBPrkY5ql44/5DGs/wDXzp//AKDLWbEwWC2imnhuxbzSTxNceH7lmRncu3fpk9PYVNJFf+K9RubW1mS71K4eC5lkmtJLSGGOIMBkNlmLFscDsaSgou62Xr3uO9y54e1fTY9B01H8dz2rrbRhrcGDER2DK8xk8dOfSium0my8WaVpdnZLBosi20KQhzNLlgqgZPye1Fc8pJtvT71/kUkzq513wSLnGVIz+Feb6d8PdGNn4SZ7K3kZx/pBMX+v/cMfm59cH8KKKwpzlFPlf9WZckm9Rl38O9H/ALG1/bZ26TC9/cyiLmJP3fyjnp1/Oul0XwzYaD4vuX0+3itIXsYw0MSYBbzG+b8sD8KKK0lUm4tN/wBaCSSZ1VFFFcZof//Z"
+       preserveAspectRatio="none"
+       id="img5" />
+    <clipPath
+       id="clip6">
+      <rect
+         x="0"
+         y="0"
+         width="222422"
+         height="228600"
+         id="rect4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath364">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.245669;stroke-linejoin:bevel"
+         id="rect365"
+         width="618.12244"
+         height="432"
+         x="-12.734694"
+         y="-9.7959185" />
+    </clipPath>
+  </defs>
+  <g
+     id="g364">
+    <rect
+       x="0"
+       y="0"
+       width="567"
+       height="720"
+       fill="#ffffff"
+       id="rect5"
+       clip-path="url(#clipPath364)" />
+    <text
+       fill="#7e8ac2"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(441.162,39)"
+       id="text5">Fully</text>
+    <text
+       fill="#7e8ac2"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(469.162,39)"
+       id="text6" />
+    <text
+       fill="#7e8ac2"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(472.495,39)"
+       id="text7">BNN</text>
+    <path
+       d="M 0.0159486,-0.999873 13.3528,-0.787142 13.3209,1.2126 -0.0159486,0.999873 Z M 12.0674,-3.80802 20.0026,0.319055 11.9398,4.19096 Z"
+       fill="#262626"
+       transform="matrix(1,0,0,-1,412,59.3191)"
+       id="path7" />
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-style="oblique"
+       font-weight="400"
+       font-size="18.6667px"
+       transform="translate(526.442,65)"
+       id="text8">𝓛</text>
+    <text
+       fill="#262626"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="18.6667px"
+       transform="translate(538.275,65)"
+       id="text9" />
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.6267px"
+       transform="translate(543.442,68)"
+       id="text10">𝐶𝐼𝐿</text>
+    <text
+       fill="#929292"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(364.161,29)"
+       id="text11">t</text>
+    <path
+       d="M 0.00133436,-0.999999 8.67714,-0.988422 8.67447,1.01158 -0.00133436,0.999999 Z M 7.34781,-3.9902 15.3425,0.0204724 7.33714,4.00979 Z"
+       fill="#262626"
+       transform="matrix(1,0,0,-1,510,61.0205)"
+       id="path11" />
+    <path
+       d="M 1.5,-2.45835e-6 1.50009,56.5594 h -3 L -1.5,2.45835e-6 Z M 4.50009,55.0594 l -4.499985013,9 -4.500014987,-9 z"
+       fill="#7f7f7f"
+       transform="matrix(1,0,0,-1,371.5,90.5595)"
+       id="path12" />
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(381.09,40)"
+       id="text12">𝐷</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(389.936,43)"
+       id="text13">𝑡</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(394.71,43)"
+       id="text14">+</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(402.21,43)"
+       id="text15">1</text>
+    <path
+       d="m 375.5,27.0001 c 0,1.3807 8.283,2.5 18.5,2.5 10.217,0 18.5,-1.1193 18.5,-2.5 V 42 c 0,1.3808 -8.283,2.5001 -18.5,2.5001 -10.217,0 -18.5,-1.1193 -18.5,-2.5001 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path15" />
+    <path
+       d="m 375.5,27.0001 c 0,-1.3808 8.283,-2.5 18.5,-2.5 10.217,0 18.5,1.1192 18.5,2.5 0,1.3807 -8.283,2.5 -18.5,2.5 -10.217,0 -18.5,-1.1193 -18.5,-2.5 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path16" />
+    <path
+       d="m 412.5,27.0001 c 0,1.3807 -8.283,2.5 -18.5,2.5 -10.217,0 -18.5,-1.1193 -18.5,-2.5 0,-1.3808 8.283,-2.5 18.5,-2.5 10.217,0 18.5,1.1192 18.5,2.5 V 42 c 0,1.3808 -8.283,2.5001 -18.5,2.5001 -10.217,0 -18.5,-1.1193 -18.5,-2.5001 V 27.0001"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path17" />
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(383.019,91)"
+       id="text17">𝐷</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(391.866,94)"
+       id="text18">𝑡</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(396.639,94)"
+       id="text19">−</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(404.139,94)"
+       id="text20">1</text>
+    <path
+       d="m 375.5,78.8751 c 0,1.3117 8.283,2.375 18.5,2.375 10.217,0 18.5,-1.0633 18.5,-2.375 v 14.25 c 0,1.3117 -8.283,2.375 -18.5,2.375 -10.217,0 -18.5,-1.0633 -18.5,-2.375 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path20" />
+    <path
+       d="m 375.5,78.8751 c 0,-1.3117 8.283,-2.375 18.5,-2.375 10.217,0 18.5,1.0633 18.5,2.375 0,1.3117 -8.283,2.375 -18.5,2.375 -10.217,0 -18.5,-1.0633 -18.5,-2.375 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path21" />
+    <path
+       d="m 412.5,78.8751 c 0,1.3117 -8.283,2.375 -18.5,2.375 -10.217,0 -18.5,-1.0633 -18.5,-2.375 0,-1.3117 8.283,-2.375 18.5,-2.375 10.217,0 18.5,1.0633 18.5,2.375 v 14.25 c 0,1.3117 -8.283,2.375 -18.5,2.375 -10.217,0 -18.5,-1.0633 -18.5,-2.375 v -14.25"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path22" />
+    <path
+       d="m 375.5,53.0001 c 0,1.3807 8.283,2.5 18.5,2.5 10.217,0 18.5,-1.1193 18.5,-2.5 V 68 c 0,1.3808 -8.283,2.5001 -18.5,2.5001 -10.217,0 -18.5,-1.1193 -18.5,-2.5001 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       id="path23" />
+    <path
+       d="m 375.5,53.0001 c 0,-1.3808 8.283,-2.5 18.5,-2.5 10.217,0 18.5,1.1192 18.5,2.5 0,1.3807 -8.283,2.5 -18.5,2.5 -10.217,0 -18.5,-1.1193 -18.5,-2.5 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       id="path24" />
+    <path
+       d="m 412.5,53.0001 c 0,1.3807 -8.283,2.5 -18.5,2.5 -10.217,0 -18.5,-1.1193 -18.5,-2.5 0,-1.3808 8.283,-2.5 18.5,-2.5 10.217,0 18.5,1.1192 18.5,2.5 V 68 c 0,1.3808 -8.283,2.5001 -18.5,2.5001 -10.217,0 -18.5,-1.1193 -18.5,-2.5001 V 53.0001"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path25" />
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(386.728,66)"
+       id="text25">𝐷</text>
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(395.575,69)"
+       id="text26">𝑡</text>
+    <path
+       d="M 0,0.666667 H -1.33333 V -0.666667 H 0 Z m -2.66667,0 H -3.3336 L -2.66693,0 V 0.160919 L -3.3336,-0.505748 h 0.50548 v 1.333333 h -1.17215 v -1.494252 h 1.3336 z m 1.17189,-1.172415 h 1.33333 v 1.333333 h -1.33333 z m 2.66666,0 H 2.50522 V 0.827585 H 1.17188 Z m 2.66667,0 H 5.17188 V 0.827585 H 3.83855 Z m 2.66667,0 H 7.83855 V 0.827585 H 6.50522 Z m 2.66666,0 H 10.5052 V 0.827585 H 9.17188 Z m 2.66662,0 h 1.3334 v 1.333333 h -1.3334 z m 2.6667,0 h 1.3333 v 1.333333 h -1.3333 z m 2.6667,0 h 1.3333 v 1.333333 h -1.3333 z m 2.6666,0 h 1.3334 v 1.333333 h -1.3334 z m 2.6667,0 h 1.3333 v 1.333333 h -1.3333 z m 2.6667,0 h 1.3333 v 1.333333 h -1.3333 z m 2.6666,0 h 1.3334 v 1.333333 h -1.3334 z m 2.6667,0 h 1.3333 V 0.827585 H 30.5052 Z M 32.8691,1.13039 V 2.46372 H 31.5357 V 1.13039 Z m 0,2.66666 V 5.13039 H 31.5357 V 3.79705 Z m 0,2.66667 V 7.79705 H 31.5357 V 6.46372 Z m 0,2.66667 V 10.4637 H 31.5357 V 9.13039 Z m 0,2.66671 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3334 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3334 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3334 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3334 v -1.3334 z m 0,2.6667 v 0.9584 h -1.3334 v -0.9584 z m 3.3333,-0.3749 -4,8 -4,-8 z"
+       fill="#262626"
+       transform="matrix(0,1,1,0,393.5,76.5001)"
+       id="path26" />
+    <path
+       d="m 474.367,57.5 8,4.0002 -8,3.9998 z"
+       fill="#262626"
+       id="path27" />
+    <path
+       d="m 496.5,61.1667 3.116,1e-4 v 0.6666 H 496.5 Z m 1.783,-3.6666 8,4.0001 -8,3.9999 z"
+       fill="#7f7f7f"
+       id="path28" />
+    <path
+       d="m 496.5,60.1667 3.116,1e-4 v 0.6666 H 496.5 Z m 1.783,-3.6666 8,4.0001 -8,3.9999 z"
+       fill="#7f7f7f"
+       id="path29" />
+    <rect
+       x="433.5"
+       y="41.500099"
+       width="76"
+       height="39"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#a9b1d6"
+       id="rect29" />
+    <path
+       d="m 439.184,45.3319 16.002,10.8833 -0.686,1.009 -16.002,-10.8833 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path30" />
+    <path
+       d="m 439.184,54.2338 16.002,10.8834 -0.686,1.009 -16.002,-10.8834 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path31" />
+    <path
+       d="M 439.358,63.6086 455.36,74.492 454.674,75.501 438.672,64.6176 Z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path32" />
+    <path
+       d="m 438.922,74.689 15.739,-11.261 0.71,0.9924 -15.739,11.261 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path33" />
+    <path
+       d="m 438.672,55.9855 15.739,-11.2611 0.71,0.9924 -15.739,11.2611 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path34" />
+    <path
+       d="m 453.062,65.3143 15.739,-11.261 0.71,0.9924 -15.739,11.261 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path35" />
+    <path
+       d="m 453.363,56.4083 15.739,-11.2611 0.71,0.9924 -15.739,11.2611 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path36" />
+    <path
+       d="m 453.797,74.6879 15.739,-11.2611 0.71,0.9924 -15.738,11.2611 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path37" />
+    <path
+       d="m 454.539,63.862 16.351,10.3521 -0.653,1.031 -16.351,-10.3521 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path38" />
+    <path
+       d="m 454.634,45.5192 16.352,10.3521 -0.653,1.031 -16.351,-10.3521 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path39" />
+    <path
+       d="m 439.118,65.1734 15.786,-11.1955 0.705,0.9954 -15.785,11.1955 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path40" />
+    <rect
+       x="439.5"
+       y="64.500099"
+       width="16"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect40" />
+    <rect
+       x="454.5"
+       y="55.500099"
+       width="16"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect41" />
+    <rect
+       x="454.5"
+       y="65.500099"
+       width="16"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect42" />
+    <path
+       d="m 437.5,47.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path42" />
+    <path
+       d="m 437.5,56.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path43" />
+    <path
+       d="m 437.5,65.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path44" />
+    <path
+       d="m 437.5,74.5001 c 0,-1.6569 1.119,-3 2.5,-3 1.381,0 2.5,1.3431 2.5,3 0,1.6568 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.3432 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path45" />
+    <path
+       d="m 452.5,47.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path46" />
+    <path
+       d="m 452.5,56.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path47" />
+    <path
+       d="m 452.5,65.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path48" />
+    <path
+       d="m 452.5,74.5001 c 0,-1.6569 1.119,-3 2.5,-3 1.381,0 2.5,1.3431 2.5,3 0,1.6568 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.3432 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path49" />
+    <path
+       d="m 467.5,47.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path50" />
+    <path
+       d="m 487.304,43.888 17.119,11.6422 -0.764,1.1232 -17.119,-11.6422 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path51" />
+    <path
+       d="m 487.304,53.7972 17.119,11.6422 -0.764,1.1232 -17.119,-11.6422 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path52" />
+    <path
+       d="m 487.491,64.2329 17.118,11.6422 -0.764,1.1232 -17.118,-11.6422 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path53" />
+    <path
+       d="m 486.994,76.0864 16.837,-12.0463 0.79,1.1047 -16.836,12.0463 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path54" />
+    <path
+       d="m 486.727,55.2662 16.836,-12.0463 0.791,1.1048 -16.837,12.0463 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path55" />
+    <path
+       d="m 487.204,65.4953 16.886,-11.9761 0.786,1.108 -16.887,11.9761 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path56" />
+    <path
+       d="m 484.5,76.0001 c 0,-1.3808 1.343,-2.5 3,-2.5 1.657,0 3,1.1192 3,2.5 0,1.3807 -1.343,2.5 -3,2.5 -1.657,0 -3,-1.1193 -3,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path57" />
+    <path
+       d="m 501.5,55.5001 c 0,-1.6569 1.343,-3 3,-3 1.657,0 3,1.3431 3,3 0,1.6568 -1.343,3 -3,3 -1.657,0 -3,-1.3432 -3,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path58" />
+    <path
+       d="m 501.5,65.5001 c 0,-1.6569 1.343,-3 3,-3 1.657,0 3,1.3431 3,3 0,1.6568 -1.343,3 -3,3 -1.657,0 -3,-1.3432 -3,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path59" />
+    <path
+       d="m 501.5,76.0001 c 0,-1.3808 1.343,-2.5 3,-2.5 1.657,0 3,1.1192 3,2.5 0,1.3807 -1.343,2.5 -3,2.5 -1.657,0 -3,-1.1193 -3,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path60" />
+    <rect
+       x="488.5"
+       y="55.500099"
+       width="17"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect60" />
+    <rect
+       x="486.5"
+       y="44.500099"
+       width="18"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect61" />
+    <rect
+       x="487.5"
+       y="75.500099"
+       width="18"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect62" />
+    <path
+       d="m 501.5,45.5001 c 0,-1.6569 1.343,-3 3,-3 1.657,0 3,1.3431 3,3 0,1.6568 -1.343,3 -3,3 -1.657,0 -3,-1.3432 -3,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path62" />
+    <path
+       d="m 470.497,64.6259 16.351,10.352 -0.653,1.031 -16.351,-10.352 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path63" />
+    <path
+       d="m 470.281,54.956 16.351,10.352 -0.652,1.031 -16.351,-10.352 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path64" />
+    <path
+       d="m 470.544,73.8692 17.241,-8.7907 0.555,1.0871 -17.241,8.7907 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path65" />
+    <path
+       d="m 470.544,63.6949 17.241,-8.7907 0.555,1.0871 -17.241,8.7907 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path66" />
+    <rect
+       x="469.5"
+       y="45.500099"
+       width="20"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect66" />
+    <rect
+       x="469.5"
+       y="54.500099"
+       width="19"
+       height="2"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect67" />
+    <path
+       d="m 470.257,54.4421 16.774,-9.6512 0.609,1.0577 -16.775,9.6512 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path67" />
+    <path
+       d="m 484.5,45.5001 c 0,-1.6569 1.343,-3 3,-3 1.657,0 3,1.3431 3,3 0,1.6568 -1.343,3 -3,3 -1.657,0 -3,-1.3432 -3,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path68" />
+    <path
+       d="m 484.5,55.5001 c 0,-1.6569 1.343,-3 3,-3 1.657,0 3,1.3431 3,3 0,1.6568 -1.343,3 -3,3 -1.657,0 -3,-1.3432 -3,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path69" />
+    <path
+       d="m 467.5,65.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path70" />
+    <path
+       d="m 467.5,74.5001 c 0,-1.6569 1.119,-3 2.5,-3 1.381,0 2.5,1.3431 2.5,3 0,1.6568 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.3432 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path71" />
+    <path
+       d="m 485.5,65.5001 c 0,-1.6569 1.343,-3 3,-3 1.657,0 3,1.3431 3,3 0,1.6568 -1.343,3 -3,3 -1.657,0 -3,-1.3432 -3,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path72" />
+    <path
+       d="m 467.5,56.0001 c 0,-1.3808 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.1192 2.5,2.5 0,1.3807 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.1193 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path73" />
+    <path
+       d="m 470.137,93.2685 -0.068,-6.5918 2,-0.0208 0.068,6.5919 z M 467.083,88.041 471,80 l 4.083,7.9581 z"
+       fill="#7f7f7f"
+       id="path74" />
+    <path
+       d="m 442.5,98 c 0,1.933 12.984,3.5 29,3.5 16.016,0 29,-1.567 29,-3.5 v 21 c 0,1.933 -12.984,3.5 -29,3.5 -16.016,0 -29,-1.567 -29,-3.5 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       id="path75" />
+    <path
+       d="m 442.5,98 c 0,-1.933 12.984,-3.4999 29,-3.4999 16.016,0 29,1.5669 29,3.4999 0,1.933 -12.984,3.5 -29,3.5 -16.016,0 -29,-1.567 -29,-3.5 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       id="path76" />
+    <path
+       d="m 500.5,98 c 0,1.933 -12.984,3.5 -29,3.5 -16.016,0 -29,-1.567 -29,-3.5 0,-1.933 12.984,-3.4999 29,-3.4999 16.016,0 29,1.5669 29,3.4999 v 21 c 0,1.933 -12.984,3.5 -29,3.5 -16.016,0 -29,-1.567 -29,-3.5 V 98"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path77" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(430.516,140)"
+       id="text77">Memory Buffer</text>
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(465.423,116)"
+       id="text78">𝐵</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(367.917,161)"
+       id="text79">c)</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(379.25,161)"
+       id="text80" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(388.71,161)"
+       id="text81">Chap</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(423.043,161)"
+       id="text82" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(432.503,161)"
+       id="text83">3</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(439.837,161)"
+       id="text84">:</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(443.837,161)"
+       id="text85" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(453.297,161)"
+       id="text86">Investigation</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(529.463,161)"
+       id="text87" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(538.917,161)"
+       id="text88">of</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(551.083,161)"
+       id="text89" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(367.917,179)"
+       id="text90">experience</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(431.25,179)"
+       id="text91" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(437.637,179)"
+       id="text92">replay</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(474.137,179)"
+       id="text93" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(480.523,179)"
+       id="text94">methods</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(530.023,179)"
+       id="text95" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(536.417,179)"
+       id="text96">on</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(551.083,179)"
+       id="text97" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(367.917,196)"
+       id="text98">fully</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(395.417,196)"
+       id="text99" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(399.083,196)"
+       id="text100">binary</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(436.417,196)"
+       id="text101" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(440.083,196)"
+       id="text102">neural</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(476.583,196)"
+       id="text103" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(480.25,196)"
+       id="text104">network</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(528.25,196)"
+       id="text105">.</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(531.917,196)"
+       id="text106" />
+    <path
+       d="M 0.0394857,-0.99922 4.79954,-0.811119 4.72057,1.18732 -0.0394857,0.99922 Z M 3.5857,-3.86143 11.4215,0.451339 3.26982,4.13233 Z"
+       fill="#262626"
+       transform="matrix(1,0,0,-1,106,289.451)"
+       id="path106" />
+    <path
+       d="M 1.5,-2.45835e-6 1.50009,56.5594 h -3 L -1.5,2.45835e-6 Z M 4.50009,55.0594 l -4.499985013,9 -4.500014987,-9 z"
+       fill="#7f7f7f"
+       transform="matrix(1,0,0,-1,65.5001,320.559)"
+       id="path107" />
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(75.4424,270)"
+       id="text107">𝐷</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(84.2891,273)"
+       id="text108">𝑡</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(89.0624,273)"
+       id="text109">+</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(96.5624,273)"
+       id="text110">1</text>
+    <path
+       d="m 70.5001,257 c 0,1.381 8.0588,2.5 18,2.5 9.9411,0 17.9999,-1.119 17.9999,-2.5 v 15 c 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path110" />
+    <path
+       d="m 70.5001,257 c 0,-1.381 8.0588,-2.5 18,-2.5 9.9411,0 17.9999,1.119 17.9999,2.5 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path111" />
+    <path
+       d="m 106.5,257 c 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 0,-1.381 8.0588,-2.5 18,-2.5 9.9411,0 17.9999,1.119 17.9999,2.5 v 15 c 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 v -15"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path112" />
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(77.3722,321)"
+       id="text112">𝐷</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(86.2188,324)"
+       id="text113">𝑡</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(90.9922,324)"
+       id="text114">−</text>
+    <text
+       fill="#7f7f7f"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(98.4922,324)"
+       id="text115">1</text>
+    <path
+       d="m 69.5001,309 c 0,1.381 8.2827,2.5 18.5,2.5 10.2172,0 18.4999,-1.119 18.4999,-2.5 v 15 c 0,1.381 -8.2827,2.5 -18.4999,2.5 -10.2173,0 -18.5,-1.119 -18.5,-2.5 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path115" />
+    <path
+       d="m 69.5001,309 c 0,-1.381 8.2827,-2.5 18.5,-2.5 10.2172,0 18.4999,1.119 18.4999,2.5 0,1.381 -8.2827,2.5 -18.4999,2.5 -10.2173,0 -18.5,-1.119 -18.5,-2.5 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path116" />
+    <path
+       d="m 106.5,309 c 0,1.381 -8.2827,2.5 -18.4999,2.5 -10.2173,0 -18.5,-1.119 -18.5,-2.5 0,-1.381 8.2827,-2.5 18.5,-2.5 10.2172,0 18.4999,1.119 18.4999,2.5 v 15 c 0,1.381 -8.2827,2.5 -18.4999,2.5 -10.2173,0 -18.5,-1.119 -18.5,-2.5 v -15"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path117" />
+    <path
+       d="m 70.5001,283 c 0,1.381 8.0588,2.5 18,2.5 9.9411,0 17.9999,-1.119 17.9999,-2.5 v 15 c 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       id="path118" />
+    <path
+       d="m 70.5001,283 c 0,-1.381 8.0588,-2.5 18,-2.5 9.9411,0 17.9999,1.119 17.9999,2.5 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       id="path119" />
+    <path
+       d="m 106.5,283 c 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 0,-1.381 8.0588,-2.5 18,-2.5 9.9411,0 17.9999,1.119 17.9999,2.5 v 15 c 0,1.381 -8.0588,2.5 -17.9999,2.5 -9.9412,0 -18,-1.119 -18,-2.5 v -15"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path120" />
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(81.0807,296)"
+       id="text120">𝐷</text>
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(89.9274,299)"
+       id="text121">𝑡</text>
+    <path
+       d="M 0,-0.666667 H 1.33333 V 0.666667 H 0 Z m 2.66667,0 H 4 V 0.666667 H 2.66667 Z m 2.66666,0 H 6.66667 V 0.666667 H 5.33333 Z m 2.66667,0 H 9.33333 V 0.666667 H 8 Z m 2.6667,0 H 12 v 1.333334 h -1.3333 z m 2.6666,0 h 1.3334 v 1.333334 h -1.3334 z m 2.6667,0 h 1.3333 V 0.666667 H 16 Z m 2.6667,0 H 20 v 1.333334 h -1.3333 z m 2.6666,0 h 1.3334 v 1.333334 h -1.3334 z m 2.6667,0 h 1.3333 V 0.666667 H 24 Z M 27.3331,2.57546e-4 V 1.33359 H 25.9997 V 2.57546e-4 Z m 0,2.666662454 V 4.00026 H 25.9997 V 2.66692 Z m 0,2.66667 V 6.66692 H 25.9997 V 5.33359 Z m 0,2.66667 V 9.33359 H 25.9997 V 8.00026 Z m 0,2.66664 v 1.3334 h -1.3334 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3334 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3334 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3334 v -1.3333 z m -0.0192,2.6475 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3333 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3333 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 3.3333,0.9142 -4,8 -4,-8 z"
+       fill="#262626"
+       transform="matrix(0,1,1,0,88.5,306.5)"
+       id="path121" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(189.462,321)"
+       id="text122">Generative</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(248.295,321)"
+       id="text123" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(196.629,337)"
+       id="text124">memory</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(201.375,353)"
+       id="text125">Buffer</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(25.0555,375)"
+       id="text126">d)</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(37.2222,375)"
+       id="text127" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(41.8622,375)"
+       id="text128">Chap</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(76.1955,375)"
+       id="text129" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(80.8355,375)"
+       id="text130">4</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(88.1689,375)"
+       id="text131">:</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(93.0022,375)"
+       id="text132" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(97.6422,375)"
+       id="text133">Proposal</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(148.809,375)"
+       id="text134" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(153.449,375)"
+       id="text135">of</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(165.616,375)"
+       id="text136" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(170.262,375)"
+       id="text137">a</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(176.762,375)"
+       id="text138" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(181.409,375)"
+       id="text139">pseudo</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(222.909,375)"
+       id="text140" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(227.556,375)"
+       id="text141">replay</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(264.056,375)"
+       id="text142" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(25.0555,393)"
+       id="text143">method</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(68.8889,393)"
+       id="text144" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(87.8089,393)"
+       id="text145">tailored</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(132.309,393)"
+       id="text146" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(151.229,393)"
+       id="text147">for</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(168.229,393)"
+       id="text148" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(187.142,393)"
+       id="text149">BNNs</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(223.976,393)"
+       id="text150" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(242.889,393)"
+       id="text151">and</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(264.056,393)"
+       id="text152" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(25.0555,410)"
+       id="text153">extendable</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(88.3889,410)"
+       id="text154" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(92.0555,410)"
+       id="text155">to</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(103.389,410)"
+       id="text156" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(107.056,410)"
+       id="text157">DNNs</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(144.722,410)"
+       id="text158" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(148.389,410)"
+       id="text159">and</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(169.556,410)"
+       id="text160" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(173.222,410)"
+       id="text161">RTL</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(201.056,410)"
+       id="text162" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(204.722,410)"
+       id="text163">mapping</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(255.889,410)"
+       id="text164">.</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(310.882,386)"
+       id="text165">d)</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(333.929,386)"
+       id="text166">Chap</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(379.136,386)"
+       id="text167">5</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(386.469,386)"
+       id="text168">:</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(402.176,386)"
+       id="text169">Conclusion</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(479.716,386)"
+       id="text170">and</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(310.882,404)"
+       id="text171">research</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(363.216,404)"
+       id="text172">perspectives</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(435.382,404)"
+       id="text173">.</text>
+    <rect
+       x="118.5"
+       y="271.5"
+       width="35"
+       height="36"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#a9b1d6"
+       id="rect173" />
+    <path
+       d="m 122.67,275.654 13.41,9.12 -0.64,0.941 -13.411,-9.12 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path173" />
+    <path
+       d="m 122.67,283.959 13.41,9.121 -0.64,0.941 -13.411,-9.12 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path174" />
+    <path
+       d="m 122.815,292.706 13.411,9.121 -0.641,0.941 -13.41,-9.12 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path175" />
+    <path
+       d="m 122.384,301.993 13.19,-9.437 0.662,0.926 -13.189,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path176" />
+    <path
+       d="m 122.175,284.542 13.189,-9.437 0.663,0.926 -13.19,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path177" />
+    <path
+       d="m 134.233,293.246 13.19,-9.437 0.662,0.926 -13.189,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path178" />
+    <path
+       d="m 134.485,284.936 13.19,-9.437 0.662,0.926 -13.189,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path179" />
+    <path
+       d="m 134.85,301.992 13.189,-9.437 0.663,0.926 -13.19,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path180" />
+    <path
+       d="m 135.536,292.918 13.702,8.675 -0.609,0.962 -13.702,-8.675 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path181" />
+    <path
+       d="m 135.616,275.803 13.702,8.675 -0.609,0.962 -13.702,-8.675 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path182" />
+    <path
+       d="m 122.548,293.117 13.229,-9.382 0.658,0.929 -13.228,9.382 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path183" />
+    <rect
+       x="122.5"
+       y="293.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect183" />
+    <rect
+       x="135.5"
+       y="284.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect184" />
+    <rect
+       x="135.5"
+       y="293.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect185" />
+    <path
+       d="m 120.5,277 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path185" />
+    <path
+       d="m 120.5,285 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path186" />
+    <path
+       d="m 120.5,294 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path187" />
+    <path
+       d="m 120.5,302 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path188" />
+    <path
+       d="m 133.5,277 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path189" />
+    <path
+       d="m 133.5,285 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path190" />
+    <path
+       d="m 133.5,294 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path191" />
+    <path
+       d="m 133.5,302 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path192" />
+    <path
+       d="m 146.5,277 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path193" />
+    <path
+       d="m 146.5,285 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path194" />
+    <path
+       d="m 146.5,294 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path195" />
+    <path
+       d="m 146.5,302 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path196" />
+    <rect
+       x="169.5"
+       y="271.5"
+       width="22"
+       height="37"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#a9b1d6"
+       id="rect196" />
+    <path
+       d="m 173.583,274.737 14.345,9.756 -0.712,1.048 -14.346,-9.756 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path197" />
+    <path
+       d="m 173.583,283.982 14.345,9.757 -0.712,1.048 -14.346,-9.757 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path198" />
+    <path
+       d="m 173.739,293.719 14.345,9.756 -0.712,1.048 -14.346,-9.756 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path199" />
+    <path
+       d="m 173.249,303.653 14.109,-10.095 0.738,1.031 -14.109,10.095 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path200" />
+    <path
+       d="m 173.026,284.228 14.109,-10.095 0.737,1.03 -14.109,10.095 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path201" />
+    <path
+       d="m 173.425,293.775 14.151,-10.036 0.733,1.034 -14.151,10.036 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path202" />
+    <path
+       d="m 171.5,285 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path203" />
+    <path
+       d="m 171.5,294.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path204" />
+    <path
+       d="m 171.5,304 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path205" />
+    <path
+       d="m 185.5,285 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path206" />
+    <path
+       d="m 185.5,294.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path207" />
+    <path
+       d="m 185.5,304 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path208" />
+    <rect
+       x="174.5"
+       y="284.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect208" />
+    <rect
+       x="173.5"
+       y="274.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect209" />
+    <rect
+       x="173.5"
+       y="303.5"
+       width="15"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect210" />
+    <path
+       d="m 171.5,275.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path210" />
+    <path
+       d="m 185.5,275.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path211" />
+    <path
+       d="m 157.5,274.782 c 0,-1.813 1.469,-3.282 3.282,-3.282 h 0.436 c 1.813,0 3.282,1.469 3.282,3.282 v 29.436 c 0,1.813 -1.469,3.282 -3.282,3.282 h -0.436 c -1.813,0 -3.282,-1.469 -3.282,-3.282 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       id="path212" />
+    <path
+       d="m 158.5,277 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path213" />
+    <path
+       d="m 158.5,285.5 c 0,-1.105 1.119,-2 2.5,-2 1.381,0 2.5,0.895 2.5,2 0,1.105 -1.119,2 -2.5,2 -1.381,0 -2.5,-0.895 -2.5,-2 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path214" />
+    <path
+       d="m 158.5,294 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path215" />
+    <path
+       d="m 158.5,303 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path216" />
+    <path
+       d="M 0.334418,3.99991 0.335713,8.7786 -0.330953,8.77878 -0.332249,4.00009 Z M -2.66522,5.33406 0,0 2.66811,5.33261 Z M 2.66868,7.44463 0.00346457,12.7787 -2.66465,7.44608 Z"
+       fill="#262626"
+       transform="matrix(-1,0,0,1,161.504,307.5)"
+       id="path217" />
+    <path
+       d="m 182.5,320.5 -11.881,25 h -19.238 l -11.881,-25 z"
+       stroke="#1b1419"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       id="path218" />
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(155.132,339)"
+       id="text218">𝐵</text>
+    <path
+       d="M 0.0394857,-0.99922 4.79954,-0.811119 4.72057,1.18732 -0.0394857,0.99922 Z M 3.5857,-3.86143 11.4215,0.451339 3.26982,4.13233 Z"
+       fill="#262626"
+       transform="matrix(1,0,0,-1,383,286.451)"
+       id="path219" />
+    <path
+       d="M 1.5,-2.45835e-6 1.50009,56.5594 h -3 L -1.5,2.45835e-6 Z M 4.50009,55.0594 l -4.499985013,9 -4.500014987,-9 z"
+       fill="#7f7f7f"
+       transform="matrix(1,0,0,-1,350.5,319.559)"
+       id="path220" />
+    <path
+       d="m 355.5,280 c 0,1.381 6.044,2.5 13.5,2.5 7.456,0 13.5,-1.119 13.5,-2.5 v 15 c 0,1.381 -6.044,2.5 -13.5,2.5 -7.456,0 -13.5,-1.119 -13.5,-2.5 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       id="path221" />
+    <path
+       d="m 355.5,280 c 0,-1.381 6.044,-2.5 13.5,-2.5 7.456,0 13.5,1.119 13.5,2.5 0,1.381 -6.044,2.5 -13.5,2.5 -7.456,0 -13.5,-1.119 -13.5,-2.5 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       id="path222" />
+    <path
+       d="m 382.5,280 c 0,1.381 -6.044,2.5 -13.5,2.5 -7.456,0 -13.5,-1.119 -13.5,-2.5 0,-1.381 6.044,-2.5 13.5,-2.5 7.456,0 13.5,1.119 13.5,2.5 v 15 c 0,1.381 -6.044,2.5 -13.5,2.5 -7.456,0 -13.5,-1.119 -13.5,-2.5 v -15"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path223" />
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(363.549,293)"
+       id="text223">𝐷</text>
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="10.22px"
+       transform="translate(372.395,296)"
+       id="text224">𝑡</text>
+    <path
+       d="M 0,-0.666667 H 1.33333 V 0.666667 H 0 Z m 2.66667,0 H 4 V 0.666667 H 2.66667 Z m 2.66666,0 H 6.66667 V 0.666667 H 5.33333 Z m 2.66667,0 H 9.33333 V 0.666667 H 8 Z m 2.6667,0 H 12 v 1.333334 h -1.3333 z m 2.6666,0 h 1.3334 v 1.333334 h -1.3334 z m 2.6667,0 h 1.3333 V 0.666667 H 16 Z m 2.6667,0 H 20 v 1.333334 h -1.3333 z m 2.6666,0 h 1.3334 v 1.333334 h -1.3334 z m 2.6667,0 h 1.3333 V 0.666667 H 24 Z m 2.6667,0 H 28 v 1.333334 h -1.3333 z m 2.6666,0 h 1.3334 v 1.333334 h -1.3334 z m 2.6667,0 h 1.3333 V 0.666667 H 32 Z m 2.6667,0 H 36 v 1.333334 h -1.3333 z m 2.6752,1.324725 V 1.99139 H 36.0086 V 0.658058 Z m 0,2.666662 V 4.65806 H 36.0086 V 3.32472 Z m 0,2.66667 V 7.32472 H 36.0086 V 5.99139 Z m 0,2.66667 V 9.99139 H 36.0086 V 8.65806 Z m 0,2.66664 v 1.3334 h -1.3333 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3333 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3333 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6666 v 1.3334 h -1.3333 v -1.3334 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6667 v 1.3333 h -1.3333 v -1.3333 z m 0,2.6666 v 1.0997 h -1.3333 v -1.0997 z m 3.3334,-0.2337 -4,8 -4,-8 z"
+       fill="#262626"
+       transform="matrix(0,1,1,0,369.5,297.5)"
+       id="path224" />
+    <rect
+       x="394.5"
+       y="268.5"
+       width="36"
+       height="37"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#d4d8eb"
+       id="rect224" />
+    <path
+       d="m 399.089,272.767 13.41,9.12 -0.64,0.941 -13.41,-9.12 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path225" />
+    <path
+       d="m 399.089,281.072 13.41,9.121 -0.64,0.941 -13.41,-9.12 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path226" />
+    <path
+       d="m 399.235,289.819 13.41,9.121 -0.64,0.941 -13.41,-9.12 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path227" />
+    <path
+       d="m 398.804,299.106 13.189,-9.437 0.663,0.926 -13.19,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path228" />
+    <path
+       d="m 398.594,281.655 13.19,-9.437 0.662,0.926 -13.189,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path229" />
+    <path
+       d="m 410.653,290.359 13.189,-9.437 0.663,0.926 -13.19,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path230" />
+    <path
+       d="m 410.905,282.049 13.189,-9.437 0.663,0.926 -13.19,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path231" />
+    <path
+       d="m 411.269,299.105 13.19,-9.437 0.662,0.926 -13.189,9.437 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path232" />
+    <path
+       d="m 411.955,290.031 13.703,8.675 -0.609,0.962 -13.703,-8.675 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path233" />
+    <path
+       d="m 412.035,272.916 13.703,8.675 -0.609,0.962 -13.703,-8.675 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path234" />
+    <path
+       d="m 398.968,290.23 13.228,-9.382 0.659,0.929 -13.229,9.382 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path235" />
+    <rect
+       x="399.5"
+       y="290.5"
+       width="13"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect235" />
+    <rect
+       x="411.5"
+       y="281.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect236" />
+    <rect
+       x="411.5"
+       y="290.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect237" />
+    <path
+       d="m 397.5,274 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path237" />
+    <path
+       d="m 397.5,282 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path238" />
+    <path
+       d="m 397.5,291 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path239" />
+    <path
+       d="m 397.5,299.5 c 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path240" />
+    <path
+       d="m 410.5,274 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path241" />
+    <path
+       d="m 410.5,282 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path242" />
+    <path
+       d="m 410.5,291 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path243" />
+    <path
+       d="m 410.5,299.5 c 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path244" />
+    <path
+       d="m 422.5,274 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path245" />
+    <path
+       d="m 422.5,282 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path246" />
+    <path
+       d="m 422.5,291 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path247" />
+    <path
+       d="m 422.5,299.5 c 0,-1.105 1.119,-2 2.5,-2 1.381,0 2.5,0.895 2.5,2 0,1.105 -1.119,2 -2.5,2 -1.381,0 -2.5,-0.895 -2.5,-2 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path248" />
+    <rect
+       x="446.5"
+       y="268.5"
+       width="22"
+       height="37"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#d4d8eb"
+       id="rect248" />
+    <path
+       d="m 450.003,271.85 14.345,9.756 -0.713,1.048 -14.345,-9.756 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path249" />
+    <path
+       d="m 450.003,281.095 14.345,9.757 -0.713,1.048 -14.345,-9.757 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path250" />
+    <path
+       d="m 450.159,290.832 14.345,9.756 -0.713,1.048 -14.345,-9.756 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path251" />
+    <path
+       d="m 449.669,300.766 14.109,-10.095 0.738,1.031 -14.11,10.095 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path252" />
+    <path
+       d="m 449.445,281.34 14.109,-10.094 0.738,1.03 -14.109,10.095 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path253" />
+    <path
+       d="m 449.845,290.888 14.151,-10.036 0.733,1.034 -14.151,10.036 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path254" />
+    <path
+       d="m 448.5,282 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path255" />
+    <path
+       d="m 448.5,292 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path256" />
+    <path
+       d="m 448.5,301.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path257" />
+    <path
+       d="m 461.5,282 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path258" />
+    <path
+       d="m 461.5,292 c 0,-1.381 1.119,-2.5 2.5,-2.5 1.381,0 2.5,1.119 2.5,2.5 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path259" />
+    <path
+       d="m 461.5,301.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path260" />
+    <rect
+       x="450.5"
+       y="281.5"
+       width="15"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect260" />
+    <rect
+       x="449.5"
+       y="271.5"
+       width="15"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect261" />
+    <rect
+       x="450.5"
+       y="300.5"
+       width="14"
+       height="1"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       id="rect262" />
+    <path
+       d="m 448.5,272.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path262" />
+    <path
+       d="m 461.5,272.5 c 0,-1.657 1.119,-3 2.5,-3 1.381,0 2.5,1.343 2.5,3 0,1.657 -1.119,3 -2.5,3 -1.381,0 -2.5,-1.343 -2.5,-3 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path263" />
+    <path
+       d="m 433.5,272.251 c 0,-2.072 1.679,-3.751 3.751,-3.751 h 0.499 c 2.071,0 3.75,1.679 3.75,3.751 v 29.499 c 0,2.071 -1.679,3.75 -3.75,3.75 h -0.499 c -2.072,0 -3.751,-1.679 -3.751,-3.75 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffc7cd"
+       fill-rule="evenodd"
+       id="path264" />
+    <path
+       d="m 435.5,274 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path265" />
+    <path
+       d="m 435.5,282.5 c 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path266" />
+    <path
+       d="m 435.5,291 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path267" />
+    <path
+       d="m 435.5,300 c 0,-1.381 0.895,-2.5 2,-2.5 1.105,0 2,1.119 2,2.5 0,1.381 -0.895,2.5 -2,2.5 -1.105,0 -2,-1.119 -2,-2.5 z"
+       stroke="#262626"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#262626"
+       fill-rule="evenodd"
+       id="path268" />
+    <path
+       d="m 437.888,309.495 0.09,6.5 -0.667,0.009 -0.089,-6.5 z m -2.981,1.375 2.593,-5.37 2.74,5.296 z m 5.386,3.76 -2.594,5.369 -2.739,-5.296 z"
+       fill="#3e4a83"
+       id="path269" />
+    <path
+       d="m 355.5,258.875 c 0,1.312 6.044,2.375 13.5,2.375 7.456,0 13.5,-1.063 13.5,-2.375 v 14.25 c 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path270" />
+    <path
+       d="m 355.5,258.875 c 0,-1.312 6.044,-2.375 13.5,-2.375 7.456,0 13.5,1.063 13.5,2.375 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path271" />
+    <path
+       d="m 382.5,258.875 c 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 0,-1.312 6.044,-2.375 13.5,-2.375 7.456,0 13.5,1.063 13.5,2.375 v 14.25 c 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 v -14.25"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path272" />
+    <path
+       d="m 412.168,268.03 0.197,-2.604 0.582,-2.614 2.188,-5.041 3.398,-4.709 4.399,-4.211 5.199,-3.555 5.807,-2.743 5.93,-1.487 0.162,0.647 -5.898,1.478 0.061,-0.022 -5.753,2.718 0.046,-0.026 -5.155,3.525 0.042,-0.034 -4.357,4.171 0.04,-0.046 -3.359,4.655 0.035,-0.062 -2.161,4.978 0.019,-0.06 -0.569,2.559 0.007,-0.047 -0.196,2.58 z m 25.926,-30.427 8.462,2.897 -7.395,5.031 z"
+       fill="#3e4a83"
+       id="path273" />
+    <path
+       d="M 0.032635,-0.331732 4.1333,0.0716824 7.74099,1.1443 9.20873,1.87428 10.3578,2.7016 l 0.7756,0.92787 0.2683,0.93664 0.2489,0.8688 -0.0647,-0.12197 0.7034,0.84151 -0.061,-0.05674 1.093,0.78693 L 13.2343,6.83973 15.733,7.69354 15.5174,8.32439 12.9719,7.45458 11.8047,6.61421 11.0291,5.68635 10.7608,4.74971 10.5119,3.8809 10.5766,4.00288 9.87321,3.16136 9.9342,3.2181 8.84122,2.43117 8.88755,2.45911 7.46993,1.75406 7.52337,1.77511 3.9739,0.7198 4.03626,0.732021 -0.032635,0.331732 Z M 15.1018,3.8252 22.1625,9.3158 13.5336,11.67 Z"
+       fill="#3e4a83"
+       transform="matrix(1,0,0,-1,468.5,286.816)"
+       id="path274" />
+    <path
+       d="m 355.5,303.875 c 0,1.312 6.044,2.375 13.5,2.375 7.456,0 13.5,-1.063 13.5,-2.375 v 14.25 c 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 z"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path275" />
+    <path
+       d="m 355.5,303.875 c 0,-1.312 6.044,-2.375 13.5,-2.375 7.456,0 13.5,1.063 13.5,2.375 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 z"
+       fill="#ffbcc3"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path276" />
+    <path
+       d="m 382.5,303.875 c 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 0,-1.312 6.044,-2.375 13.5,-2.375 7.456,0 13.5,1.063 13.5,2.375 v 14.25 c 0,1.312 -6.044,2.375 -13.5,2.375 -7.456,0 -13.5,-1.063 -13.5,-2.375 v -14.25"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path277" />
+    <path
+       d="m 449.521,334.167 2.929,0.183 2.865,0.522 5.054,1.853 2.048,1.256 1.592,1.413 1.048,1.546 0.364,1.568 0.351,1.508 -0.049,-0.112 0.99,1.461 -0.055,-0.063 1.539,1.366 -0.047,-0.035 1.995,1.224 -0.076,-0.035 4.171,1.295 -0.198,0.637 -4.21,-1.307 -2.056,-1.261 -1.592,-1.413 -1.048,-1.546 -0.364,-1.568 -0.35,-1.508 0.048,0.112 -0.99,-1.461 0.055,0.063 -1.538,-1.366 0.047,0.035 -1.996,-1.224 0.06,0.029 -4.996,-1.831 0.055,0.015 -2.818,-0.513 0.039,0.004 -2.909,-0.181 z m 24.049,11.091 7.123,5.409 -8.601,2.454 z"
+       fill="#3e4a83"
+       id="path278" />
+    <path
+       d="m 369.588,320.537 -0.447,4.01 -1.274,3.912 -1.977,3.653 -2.562,3.271 -3.043,2.775 -4.203,2.187 -0.308,-0.591 4.165,-2.167 -0.071,0.049 2.99,-2.727 -0.037,0.041 2.527,-3.227 -0.031,0.047 1.949,-3.601 -0.024,0.055 1.254,-3.851 -0.014,0.066 0.444,-3.976 z m -11.314,23.016 -8.774,-1.736 6.653,-5.978 z"
+       fill="#3e4a83"
+       id="path279" />
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(462.919,237)"
+       id="text279">Feature</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(503.085,237)"
+       id="text280" />
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(506.419,237)"
+       id="text281">extractor</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(554.085,237)"
+       id="text282" />
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(483.672,253)"
+       id="text283">extention</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(490.727,277)"
+       id="text284">On</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(507.06,277)"
+       id="text285">-</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(511.56,277)"
+       id="text286">device</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(546.56,277)"
+       id="text287" />
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(492.647,293)"
+       id="text288">retraining</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(301.51,331)"
+       id="text289">More</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(293.01,347)"
+       id="text290">complex</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(339.01,347)"
+       id="text291" />
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(293.677,363)"
+       id="text292">scenario</text>
+    <path
+       d="m 459.5,321.5 -11.881,25 h -20.238 l -11.881,-25 z"
+       stroke="#1b1419"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ffc7cd"
+       fill-rule="evenodd"
+       id="path292" />
+    <text
+       fill="#262626"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(431.754,340)"
+       id="text293">𝐵</text>
+    <path
+       d="M 182,13.8335 C 182,7.29805 187.298,2 193.834,2 H 339.166 C 345.702,2 351,7.29805 351,13.8335 v 47.333 C 351,67.702 345.702,73 339.166,73 H 193.834 C 187.298,73 182,67.702 182,61.1665 Z"
+       fill="#f2f2f2"
+       fill-rule="evenodd"
+       id="path293" />
+    <path
+       d="M 182,85.1669 C 182,78.9996 187,74 193.167,74 H 339.833 C 346,74 351,78.9996 351,85.1669 V 129.833 C 351,136 346,141 339.833,141 H 193.167 C 187,141 182,136 182,129.833 Z"
+       fill="#f2f2f2"
+       fill-rule="evenodd"
+       id="path294" />
+    <path
+       d="m 267,22.5001 3.598,2.9449 c 6.736,6.6816 10.902,15.9122 10.902,26.108 0,7.6469 -2.343,14.7508 -6.357,20.6436 l -0.252,0.3035 h -15.782 l -0.252,-0.3035 C 254.844,66.3038 252.5,59.1999 252.5,51.553 c 0,-10.1958 4.166,-19.4264 10.902,-26.108 z"
+       stroke="#262626"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       stroke-dasharray="1.33333, 1.33333"
+       fill="#c3b1e1"
+       fill-rule="evenodd"
+       id="path295" />
+    <path
+       d="m 245.136,15.5001 c 7.588,0 14.636,2.2897 20.484,6.211 l 1.88,1.5401 -3.541,2.9007 c -6.63,6.5813 -10.731,15.6731 -10.731,25.7158 0,7.532 2.307,14.5293 6.257,20.3335 l 0.248,0.2989 h -44.728 l -0.248,-0.2989 c -3.95,-5.8043 -6.257,-12.8015 -6.257,-20.3335 0,-20.0853 16.403,-36.3676 36.636,-36.3676 z"
+       stroke="#3c3c3c"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       stroke-dasharray="1.33333, 1.33333"
+       fill="#a9b1d6"
+       fill-rule="evenodd"
+       id="path296" />
+    <text
+       fill="#ffffff"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(217.662,48)"
+       id="text296">BNN</text>
+    <path
+       d="m 289.485,15.5001 c 19.891,0 36.015,16.2823 36.015,36.3676 0,7.532 -2.267,14.5292 -6.151,20.3335 l -0.244,0.2989 h -43.97 l 0.244,-0.2989 c 3.884,-5.8042 6.151,-12.8015 6.151,-20.3335 0,-10.0427 -4.031,-19.1345 -10.548,-25.7158 l -3.482,-2.9007 1.849,-1.5401 c 5.748,-3.9213 12.677,-6.211 20.136,-6.211 z"
+       stroke="#3c3c3c"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       stroke-dasharray="1.33333, 1.33333"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       id="path297" />
+    <text
+       fill="#ffffff"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(288.914,48)"
+       id="text297">IL</text>
+    <text
+       fill="#7e8ac2"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(204.073,86)"
+       id="text298">Fully</text>
+    <text
+       fill="#7e8ac2"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(204.073,102)"
+       id="text299">BNN</text>
+    <path
+       d="M 242.746,76.5001 H 259.5 v 15.8551 l -0.801,0.1449 c -6.741,0 -12.525,-3.6701 -14.996,-8.9006 L 242.5,78.2618 v -0.6696 z"
+       stroke="#3e4a83"
+       stroke-miterlimit="8"
+       stroke-dasharray="1, 1"
+       fill="#d4d8eb"
+       fill-rule="evenodd"
+       id="path299" />
+    <rect
+       x="258.5"
+       y="76.500099"
+       width="16"
+       height="17"
+       stroke="#3e4a83"
+       stroke-miterlimit="8"
+       stroke-dasharray="1, 1"
+       fill="#c3b1e1"
+       fill-opacity="0.478431"
+       id="rect299" />
+    <path
+       d="M 0.275188,0 H 19 V 15.8551 L 18.1043,16 C 10.5703,16 4.10617,12.3299 1.34498,7.09946 L 0,1.7617 V 1.0921 Z"
+       stroke="#3e4a83"
+       stroke-miterlimit="8"
+       stroke-dasharray="1, 1"
+       fill="#ff8f9b"
+       fill-rule="evenodd"
+       transform="matrix(-1,0,0,1,293.5,76.5001)"
+       id="path300" />
+    <text
+       fill="#ff5669"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(296.03,90)"
+       id="text300">Prototype</text>
+    <text
+       fill="#ff5669"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(301.95,106)"
+       id="text301">method</text>
+    <path
+       d="m 246.805,67.3656 3.909,8.8695 -0.61,0.2689 -3.909,-8.8695 z m 5.507,6.7084 -0.29,5.9558 -4.591,-3.8049 z"
+       fill="#3e4a83"
+       id="path301" />
+    <path
+       d="M 0.333288,-0.00546872 0.600892,16.3035 -0.0656847,16.3145 -0.333288,0.00546872 Z M 2.91204,14.9321 0.333228,20.3085 -2.42058,15.0196 Z"
+       fill="#3e4a83"
+       transform="matrix(-1,0,0,1,267.833,63.5001)"
+       id="path302" />
+    <path
+       d="M 0.298142,-0.149071 4.17858,7.6118 3.58229,7.90995 -0.298142,0.149071 Z M 5.66929,5.37573 V 11.3386 L 0.899013,7.76087 Z"
+       fill="#3e4a83"
+       transform="matrix(-1,0,0,1,288.169,68.5001)"
+       id="path303" />
+    <text
+       fill="#7030a0"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(223.156,120)"
+       id="text303">Replay on BNN</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(179.199,162)"
+       id="text304">b)</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(191.366,162)"
+       id="text305" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(196.032,162)"
+       id="text306">Chap</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(230.366,162)"
+       id="text307" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(235.032,162)"
+       id="text308">2</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(242.366,162)"
+       id="text309">:</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(246.366,162)"
+       id="text310" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(251.032,162)"
+       id="text311">litterature</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(307.532,162)"
+       id="text312" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(312.199,162)"
+       id="text313">review</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(352.032,162)"
+       id="text314" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(179.199,180)"
+       id="text315">on</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(193.866,180)"
+       id="text316" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(205.926,180)"
+       id="text317">BNN</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(237.092,180)"
+       id="text318" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(249.146,180)"
+       id="text319">and</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(270.312,180)"
+       id="text320" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(282.366,180)"
+       id="text321">Incremental</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(352.032,180)"
+       id="text322" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(179.199,197)"
+       id="text323">Learning</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(232.032,197)"
+       id="text324" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(239.366,197)"
+       id="text325">(IL)</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(262.866,197)"
+       id="text326" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(270.199,197)"
+       id="text327">and</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(291.366,197)"
+       id="text328" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(298.699,197)"
+       id="text329">scientific</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(352.032,197)"
+       id="text330" />
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(179.199,215)"
+       id="text331">positioning</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(244.866,215)"
+       id="text332">.</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(191.845,15)"
+       id="text333">State</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(218.511,15)"
+       id="text334">-</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(223.011,15)"
+       id="text335">of</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(234.178,15)"
+       id="text336">-</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(238.678,15)"
+       id="text337">the art</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(187.73,136)"
+       id="text338">Contributions</text>
+    <g
+       transform="matrix(1.04987e-4,0,0,1.04987e-4,79,69)"
+       id="g339">
+      <g
+         clip-path="url(#clip1)"
+         transform="scale(1.08484,1)"
+         id="g338">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img0"
+           transform="scale(8355.26)"
+           id="use338" />
+      </g>
+    </g>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13.3333px"
+       transform="translate(33.8618,93)"
+       id="text339">Smart</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13.3333px"
+       transform="translate(33.8618,109)"
+       id="text340">sensor</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(5.75811,158)"
+       id="text341">a)</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(22.8381,158)"
+       id="text342">Chap</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14.6667px"
+       transform="translate(62.9181,158)"
+       id="text343">1</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(70.2514,158)"
+       id="text344">:</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(80.0048,158)"
+       id="text345">Smart</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(120.591,158)"
+       id="text346">sensors</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(5.75811,176)"
+       id="text347">in</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(26.4248,176)"
+       id="text348">dynamic</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(86.0914,176)"
+       id="text349">environment</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(159.925,176)"
+       id="text350">.</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(5.75811,193)"
+       id="text351">Motivation</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(75.0048,193)"
+       id="text352">for</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(96.4248,193)"
+       id="text353">low</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(118.425,193)"
+       id="text354">-</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(123.258,193)"
+       id="text355">power,</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(5.75811,211)"
+       id="text356">incrementally</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(110.091,211)"
+       id="text357">learnable</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(5.75811,229)"
+       id="text358">DNNs</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14.6667px"
+       transform="translate(43.4248,229)"
+       id="text359">.</text>
+    <g
+       transform="matrix(1.04987e-4,0,0,1.04987e-4,6,1)"
+       id="g360">
+      <g
+         clip-path="url(#clip3)"
+         transform="scale(1.00329,1)"
+         id="g359">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img2"
+           transform="scale(7536.26)"
+           id="use359" />
+      </g>
+    </g>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13.3333px"
+       transform="translate(94.1011,34)"
+       id="text360">Dynamic</text>
+    <text
+       fill="#262626"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13.3333px"
+       transform="translate(83.3477,50)"
+       id="text361">environment</text>
+    <g
+       clip-path="url(#clip4)"
+       transform="matrix(1.04987e-4,0,0,1.04987e-4,103,76)"
+       id="g362">
+      <g
+         clip-path="url(#clip6)"
+         transform="matrix(1.11343,0,0,1,0,-0.0625)"
+         id="g361">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img5"
+           transform="scale(6178.38)"
+           id="use361" />
+      </g>
+    </g>
+    <text
+       fill="#929292"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(57.2524,261)"
+       id="text362">t</text>
+    <path
+       d="M 0.00133436,-0.999999 8.67714,-0.988422 8.67447,1.01158 -0.00133436,0.999999 Z M 7.34781,-3.9902 15.3425,0.0204724 7.33714,4.00979 Z"
+       fill="#262626"
+       transform="matrix(1,0,0,-1,194,293.02)"
+       id="path362" />
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(479.103,348)"
+       id="text363">Hardware</text>
+    <text
+       fill="#3e4a83"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13.3333px"
+       transform="translate(482.269,364)"
+       id="text364">mapping</text>
+  </g>
+</svg>
