@@ -10,6 +10,9 @@ venue: Phd thesis
 paperurl: 'https://yanisbassobert.github.io/files/thesis.pdf'
 citation: 'Basso-Bert, Y. Replay strategies for incremental learning in fully-binary neural networks under memory constraints.'
 ---
+Here is my full thesis, available in open access:
+
+<iframe src="https://yanisbassobert.github.io/files/thesis.pdf#toolbar=0" width="100%" height="650px" style="border: none;"></iframe>
 
 The rise of smart sensors has led to a growing need to deploy deep learning models close to the sensor, enabling always-on on-device inference, where models run permanently to support uninterrupted local processing. This approach reduces latency, bandwidth, and energy consumption — especially important in resource-constrained environments.
 
@@ -38,7 +41,3 @@ These findings are validated on CIFAR-100 and extended to the CORE50 benchmark, 
 Building on this foundation, we introduce Generative Binary Memory (GBM), a pseudo-replay method based on Bernoulli Mixture Models that generates synthetic binary exemplars from compact prototype representations. Two binarization modules extend GBM to non-binary networks. The method achieves state-of-the-art results on CIFAR-100 (+2.9%) and TinyImageNet (+1.5%) with a ResNet18 backbone. On FBNNs, GBM improves final accuracy by +3.1% on CORE50 while reducing memory usage by a factor of 4.7. An online, integer-only variant of GBM is also proposed to support real-time on-device adaptation.
 
 This work demonstrates that FBNNs, when designed and trained with appropriate strategies, can support incremental learning while meeting the stringent requirements of embedded inference. It opens promising directions for deploying adaptive, low-power learning systems at the edge.
-
-Here is my full thesis, available in open access:
-
-<iframe src="https://yanisbassobert.github.io/files/iscas_slides.pdf#toolbar=0" width="100%" height="650px" style="border: none;"></iframe>
