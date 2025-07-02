@@ -10,9 +10,9 @@ venue: Phd thesis
 paperurl: 'https://yanisbassobert.github.io/files/thesis.pdf'
 citation: 'Basso-Bert, Y. Replay strategies for incremental learning in fully-binary neural networks under memory constraints.'
 ---
-Here is my full thesis, available in open access:
+Here is my full thesis, available in open access ([download link]('https://yanisbassobert.github.io/files/thesis.pdf')):
 
-<iframe src="https://yanisbassobert.github.io/files/thesis.pdf#toolbar=0" width="100%" height="650px" style="border: none;"></iframe>
+<iframe src="https://yanisbassobert.github.io/files/thesis.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
 
 The rise of smart sensors has led to a growing need to deploy deep learning models close to the sensor, enabling always-on on-device inference, where models run permanently to support uninterrupted local processing. This approach reduces latency, bandwidth, and energy consumption — especially important in resource-constrained environments.
 
