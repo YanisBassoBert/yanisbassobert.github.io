@@ -1,13 +1,11 @@
 ---
-title: "Replay strategies for incremental learning in fully-binary neural networks under memory constraints"
+title: "Phd thesis: Replay strategies for incremental learning in fully-binary neural networks under memory constraints"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-thesis-manuscript
 excerpt: "This thesis explores how Fully Binarized Neural Networks (FBNNs) can support incremental learning under extreme memory and energy constraints. By combining compact architectures with novel replay strategies, it enables smart sensors to learn continuously, efficiently, and on-device. <br/>
   <img src='/images/schema-manuscript-organisation.svg' alt='organisation schema' width='800'>"
 date: 2025-04-01
-venue: Phd thesis
-paperurl: 'https://yanisbassobert.github.io/files/thesis.pdf'
 citation: 'Basso-Bert, Y. Replay strategies for incremental learning in fully-binary neural networks under memory constraints.'
 ---
 Here is my full thesis, available in open access ([download link]('https://yanisbassobert.github.io/files/thesis.pdf')):
